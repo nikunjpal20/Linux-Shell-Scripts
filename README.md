@@ -1,6 +1,6 @@
 # 🐧 Linux Shell Scripting Projects
 
-This repository contains *50 Linux shell scripting codes* written for automating tasks, managing files, performing system operations, and more. These scripts were developed as part of my learning journey and demonstrate various shell scripting concepts using Bash.
+This repository contains *55 Linux shell scripting codes* written for automating tasks, managing files, performing system operations, and more. These scripts were developed as part of my learning journey and demonstrate various shell scripting concepts using Bash.
 
 ---
 
